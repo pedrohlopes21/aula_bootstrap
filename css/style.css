@@ -1,5 +1,6 @@
 body {
     font-size: 17px;
+    color: white;
 }
 
 .navbar {
@@ -8,13 +9,17 @@ body {
 
 .quem-somos {
     background-color: rgba(107, 77, 160, 0.975);
-    color: rgb(255, 255, 255);
-}
-
-.margin {
-    padding-top: 50px;
 }
 
 .quem-somos img {
     margin: 10px 0 30px;
+}
+
+.margin {
+    padding-top: 50px;
+    padding-bottom: 10px;
+}
+
+.parceiros {
+    background-color: rgb(197, 111, 147);
 }
